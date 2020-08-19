@@ -4,8 +4,8 @@ Service history for my carrito
 
 |	Date	|	Mileage	|	Service	|	Interval	|	Next Service Date	|	Notes	|	Receipt	|	Cost	|
 |	----	|	----	|	----	|	----	|	----	|	----	|	----	|	----	|
-|	4/12/2020	|		|	Clutch	|		|		|		|	FCP #R992962563	|		|
-|	4/19/2020	|		|	Engine Mounts	|	5-7 years	|	4/19/2025	|	Inspect on date	|	FCP #R347085845	|		|
+|	4/12/2020	|		|	Clutch	|		|		|	LUK Kit 6243659000	|	FCP #R992962563	|	$154.58	|
+|	4/19/2020	|		|	Engine Mounts	|	5-7 years	|	4/19/2025	|	Inspect on date	|	FCP #R347085845	|	$77.08	|
 |	7/31/2020	|	168172	|	GM5 Module	|	N/A	|	N/A	|	Relay issues	|		|	 $120.00 	|
 |	8/1/2020	|	168172	|	Key Fob Battery Fixed	|	N/A	|	N/A	|	Soldered cold joint	|		|	 $-   	|
 |	8/6/2020	|	168417	|	Fuel Cleaner	|	3,000 Miles	|	171417	|	AutoZone Chevron Techron	|		|	 $14.99 	|
