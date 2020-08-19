@@ -19,3 +19,12 @@ Service history for my carrito
 - Vanos
 - DISA
 - Suspension (See levels below)
+
+## Tests Performed
+
+### Compression Test
+
+08/12/2020 
+|Cyl 1|Cyl 2|Cyl 3|Cyl 4|Cyl 5|Cyl 6|
+|-----|-----|-----|-----|-----|-----|
+| 180 | 176 | 185 | 183 | 177 | 185 |
