@@ -1,5 +1,7 @@
 # E46TouringService
 
+[Bentley Manual](https://app.box.com/s/rfd9u8r40hus4gh7f26ajpfp4p4nu8jn)
+
 Service history for my carrito
 
 |	Date	|	Mileage	|	Service	|	Interval	|	Next Service Date	|	Notes	|	Receipt	|	Cost	|
