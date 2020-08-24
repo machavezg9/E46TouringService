@@ -53,3 +53,10 @@ Service history for my carrito
 |	Stage 3	|	Differential	|	"33176770788 x2 33176751808 x1"	|		|		|		|
 |	Stage 3	|	Differential Bushing Bolts	|	"33176760337 x2 (Two small diff bolts) 33176760336 x1 (One large diff bolt) 33306760349 x1 (Self-locking nut for large diff bolt)"	|		|		|		|
 
+## Thermostat Swap
+- [DIY](https://www.e46fanatics.com/threads/diy-thermostat-replacement-with-pics.665860/)
+- [Brands](https://www.e46fanatics.com/threads/need-help-with-thermostat-brand.1053598/)
+
+## Manual Swap Coding
+- [INPA EWS](https://www.e46fanatics.com/threads/easy-no-cel-after-manual-swap.1103651/)
+- [50sKid](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwib-Ie-t7TrAhVVgp4KHQUZB0AQwqsBMAJ6BAgMEBA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFiBr1h9j0bU&usg=AOvVaw0wGbB-s-2sYvPqCve4qeey)
