@@ -1,6 +1,6 @@
 # E46TouringService
 
-[Bentley Manual](https://app.box.com/s/rfd9u8r40hus4gh7f26ajpfp4p4nu8jn)
+[Bentley Manual](https://app.box.com/s/rfd9u8r40hus4gh7f26ajpfp4p4nu8jn) (PS I own the physical copy, if you don't own it, purchase and keep pdf)
 
 Service history for my carrito
 
