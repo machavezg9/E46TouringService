@@ -32,6 +32,10 @@ Service history for my carrito
 |	10/02/2020	|		|	Sway Bar Link	|		|		|		|		|		|
 |	10/02/2020	|		|	Sway Bar Bushings	|		|		|		|		|		|
 |	10/02/2020	|		|	LCA Bushings	|		|		|		|		|		|
+|	10/17/2020	|		|	Thermostat	|		|		|		|		|		|
+|	10/17/2020	|		|	Water Pump	|		|		|		|		|		|
+|	10/17/2020	|		|	Water Pump Pulley	|		|		|		|		|		|
+|	10/25/2020	|		|	Used Junk Yard DISA	|		|		|		|		|		|
 
 ## Reccomended Parts to be Seviced
 - Vanos
