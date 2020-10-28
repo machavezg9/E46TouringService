@@ -37,6 +37,18 @@ Service history for my carrito
 |	10/17/2020	|		|	Water Pump Pulley	|	50,000 Miles	|		|		|	FCP #R394405713	|	$36.56	|
 |	10/25/2020	|		|	Used Junk Yard DISA	|	70,000 Miles	|		|	Replace Soon	|		|	$50.00	|
 
+#### Pending (Parts on the way)
+|	Date	|	Mileage	|	Service	|	Interval	|	Next Service Date	|	Notes	|	Receipt	|	Cost	|
+|	----	|	----	|	----	|	----	|	----	|	----	|	----	|	----	|
+|	TBD	|		|	Clutch Line	|		|		|		|		|		|
+|	TBD	|		|	Clutch Control Valve	|		|		|		|		|		|
+|	TBD	|		|	Brake Lines	|		|		|		|		|	$39.74	|
+|	TBD	|		|	Brake Fluid	|		|		|		|		|	$20.42	|
+|	TBD	|		|	Sec Air Hose	|		|		|		|		|	$11.25	|
+|	TBD	|		|	Cab Air Filter	|		|		|		|		|	$12.61	|
+|	TBD	|		|	Rear Struts (Full)	|		|		|		|	FCP #R348806691	|	$222.03	|
+|	TBD	|		|	Steering Coupling	|		|		|		|		|	$72.11	|
+
 ## Reccomended Parts to be Seviced
 - Vanos
 - DISA
