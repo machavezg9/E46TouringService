@@ -42,12 +42,12 @@ Service history for my carrito
 |	----	|	----	|	----	|	----	|	----	|	----	|	----	|	----	|
 |	TBD	|		|	Clutch Line	|		|		|	UUC SSCLC160	|	ECS#: 905-896-012	|	$27.55	|
 |	TBD	|		|	Clutch Delay Valve	|		|		|	UUC UNLOCK2	|	ECS#: 905-896-012	|	$28.45	|
-|	TBD	|		|	Brake Lines	|		|		|	FCP #R013726305	|		|	$39.74	|
-|	TBD	|		|	Brake Fluid	|		|		|	FCP #R013726305	|		|	$20.42	|
-|	TBD	|		|	Sec Air Hose	|		|		|	FCP #R013726305	|		|	$11.25	|
-|	TBD	|		|	Cab Air Filter	|		|		|	FCP #R013726305	|		|	$12.61	|
+|	TBD	|		|	Brake Lines	|		|		|		|	FCP #R013726305	|	$39.74	|
+|	TBD	|		|	Brake Fluid	|		|		|		|	FCP #R013726305	|	$20.42	|
+|	TBD	|		|	Sec Air Hose	|		|		|		|	FCP #R013726305	|	$11.25	|
+|	TBD	|		|	Cab Air Filter	|		|		|		|	FCP #R013726305	|	$12.61	|
 |	TBD	|		|	Rear Struts (Full)	|		|		|		|	FCP #R348806691	|	$222.03	|
-|	TBD	|		|	Steering Coupling	|		|		|	FCP #R381702161	|		|	$72.11	|
+|	TBD	|		|	Steering Coupling	|		|		|		|	FCP #R381702161	|	$72.11	|
 
 ## Reccomended Parts to be Seviced
 - Vanos
